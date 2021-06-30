@@ -11,3 +11,4 @@ Here I have committed almost all data structures that are necessary for students
 - Stack
 - Vector
 - Complex Number
+- Matrix
